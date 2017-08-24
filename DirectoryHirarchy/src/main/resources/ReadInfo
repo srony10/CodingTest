@@ -1,0 +1,29 @@
+
+
+This application can be use for traversing folder structure or Directory Structure.
+
+===================How to Run This Application in Eclipse IDE:======================
+
+Steps:
+
+1. Run DirectoryHirarchyMain.java class as Java Application.
+2. Follow the instruction in console.
+	1. Provide directory path you wish to traverse.
+	2. Enter number to choose traverse method.
+	3. Enter number to choose view directory structure.
+
+3. After following above steps you can see output in your console.
+	
+======================How to run in Command Prompt:===============================
+
+Steps:
+
+1. Save Executable jar file to a location on your machine
+2. open command prompt and reach to jar file location with command "cd {loacation of jar file}"
+3. Run command java -jar {jarfilename.jar}
+4. Follow instruction on console.
+5. After following above steps you an see out put in your command prompt.
+	
+
+
+ 
